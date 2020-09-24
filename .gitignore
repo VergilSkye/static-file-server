@@ -1,5 +1,9 @@
 *.class
 
+# ignorando pastaParaUpload
+pastaParaUpload/
+
+
 # package file
 *.war
 *.ear
